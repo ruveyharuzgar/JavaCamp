@@ -4,9 +4,7 @@ import nLayeredDemo.business.abstracts.ProductService;
 import nLayeredDemo.business.concretes.ProductManager;
 import nLayeredDemo.core.JLoggerManagerAdapter;
 import nLayeredDemo.dataAccess.concretes.AbcProductDao;
-import nLayeredDemo.dataAccess.concretes.HibernateProductDao;
 import nLayeredDemo.entities.concretes.Product;
-import nLayeredDemo.jLogger.JLoggerManager;
 
 public class Main {
 
